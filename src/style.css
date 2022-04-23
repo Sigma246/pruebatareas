@@ -1,0 +1,27 @@
+
+body{
+    background-color: #364151;
+}
+
+p{
+    display: inline-block;
+}
+h1{
+    color: #fff;
+}
+button{
+    display: inline-block !important;
+    margin-left: 2%;
+}
+ul{
+    list-style:none;
+}
+ul li p{
+    color: #fff ;
+    font-size: 2rem;
+    vertical-align: center;
+}
+ul li button{
+    height: 50%;
+    margin-top: 8%;
+}
